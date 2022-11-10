@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "username": "Franco",
+      "email": "franco@gmail.com",
+      "bio": "I am a super hero"
+    },
+    {
+      "id": 3,
+      "username": "Kadita",
+      "email": "kadita@gmail.com",
+      "bio": "I live in water"
+    },
+    {
+      "username": "Kagura",
+      "email": "kagura@gmail.com",
+      "bio": "I have an umberella",
+      "id": 4
+    },
+    {
+      "username": "Tigeral",
+      "email": "tigeral@gmail.com",
+      "bio": "I am a tank",
+      "id": 5
+    },
+    {
+      "username": "Myat Ko Ko",
+      "email": "myatkoko@gmail.com",
+      "bio": "I am a web developer",
+      "id": 6
+    },
+    {
+      "username": "Selena",
+      "email": "selena@gmail.com",
+      "bio": "I am a mage",
+      "id": 7
+    },
+    {
+      "username": "Vale",
+      "email": "vale@gmail.com",
+      "bio": "I am a mage",
+      "id": 8
+    }
+  ]
+}
